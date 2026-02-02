@@ -1,0 +1,5 @@
+com/janidure/portfolio/config/CorsConfig.class
+com/janidure/portfolio/model/ContactMessage.class
+com/janidure/portfolio/PortfolioApplication.class
+com/janidure/portfolio/controller/PortfolioController.class
+com/janidure/portfolio/repository/ContactRepository.class
